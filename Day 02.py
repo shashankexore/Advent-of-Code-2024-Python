@@ -29,3 +29,5 @@ for line in lines:
         p2 += 1
 print(p1)
 print(p2)
+
+#Link to the problem: https://adventofcode.com/2024/day/2
