@@ -26,4 +26,4 @@ for l in LEFT:
     p2 += l * RC.get(l,0)
 print(p2)
 
-#Link to the problem: https://adventofcode.com/2024/day/1
+#Link to the problem: https://adventofcode.com/2024/day/1 
