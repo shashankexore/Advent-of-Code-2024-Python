@@ -21,3 +21,5 @@ for i in range(len(D)):
             p2 += x*y
 print(p1)
 print(p2)
+
+#Link to the problem: https://adventofcode.com/2024/day/3
