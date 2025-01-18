@@ -58,3 +58,5 @@ for r in range(R):
 
 pr(p1)
 pr(p2)
+
+#Link to the problem: https://adventofcode.com/2024/day/10
