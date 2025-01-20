@@ -48,3 +48,5 @@ p1 = len(A1)
 p2 = len(A2)
 pr(p1)
 pr(p2)
+
+#Link to the problem: https://adventofcode.com/2024/day/8
