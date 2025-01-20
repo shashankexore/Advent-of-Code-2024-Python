@@ -37,3 +37,5 @@ def solve_all(t):
     return sum(solve(x, t) for x in D)
 pr(solve_all(25))
 pr(solve_all(75))
+
+#Link to the problem: https://adventofcode.com/2024/day/11
