@@ -53,3 +53,5 @@ p1 = solve(False)
 p2 = solve(True)
 pr(p1)
 pr(p2)
+
+#Link to the problem: https://adventofcode.com/2024/day/9
