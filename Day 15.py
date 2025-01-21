@@ -107,3 +107,5 @@ def solve(G,part2):
     return ans
 pr(solve(G, False))
 pr(solve(G, True))
+
+#Link to the problem: https://adventofcode.com/2024/day/15
