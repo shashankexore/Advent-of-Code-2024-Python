@@ -69,3 +69,5 @@ for i,machine in enumerate(machines):
 
 pr(p1)
 pr(p2)
+
+#Link to the problem: https://adventofcode.com/2024/day/13
