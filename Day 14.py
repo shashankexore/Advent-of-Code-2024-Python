@@ -89,3 +89,5 @@ for t in range(1,10**6):
             gstr.append(''.join(row))
         print('\n'.join(gstr))
         break
+
+#Link to the problem: https://adventofcode.com/2024/day/14
