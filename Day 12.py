@@ -65,7 +65,7 @@ for r in range(R):
         p1 += area*perim
         p2 += area*sides
 
-#Link to the problem: https://adventofcode.com/2024/day/12
-
 print(p1)
 print(p2)
+
+#Link to the problem: https://adventofcode.com/2024/day/12
