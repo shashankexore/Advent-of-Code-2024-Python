@@ -93,3 +93,5 @@ while True:
     elif len(out) > best:
         #print(A, oct(A), best, len(program))
         best = len(out)
+
+#Link to the problem: https://adventofcode.com/2024/day/17
