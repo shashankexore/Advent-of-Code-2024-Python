@@ -84,3 +84,5 @@ def find_cheat(d0, CHEAT_TIME):
 d0 = DIST[(sr,sc)]
 print(find_cheat(d0, 2))
 print(find_cheat(d0, 20))
+
+#Link to the problem: https://adventofcode.com/2024/day/20
