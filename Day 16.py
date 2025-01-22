@@ -79,3 +79,5 @@ for r in range(R):
             if (r,c,dir) in DIST and (r,c,dir) in DIST2 and DIST[(r,c,dir)] + DIST2[(r,c,dir)] == best:
                 OK.add((r,c))
 print(len(OK))
+
+#Link to the problem: https://adventofcode.com/2024/day/16
