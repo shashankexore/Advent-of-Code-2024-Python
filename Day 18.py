@@ -45,3 +45,5 @@ for i,line in enumerate(D.split('\n')):
     if not ok:
         pr(f'{x},{y}')
         break
+
+#Link to the problem: https://adventofcode.com/2024/day/18
