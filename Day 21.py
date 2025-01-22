@@ -256,3 +256,5 @@ for line in D.split('\n'):
     p2 += line_int * s2
 pr(p1)
 pr(p2)
+
+#Link to the problem: https://adventofcode.com/2024/day/21
