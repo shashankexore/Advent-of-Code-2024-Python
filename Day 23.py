@@ -53,3 +53,5 @@ for t in range(1000):
         best = clique
         #print(t, len(best), ','.join(sorted(best)))
 pr(','.join(sorted(best)))
+
+#Link to the problem: https://adventofcode.com/2024/day/23
