@@ -124,3 +124,5 @@ while len(SWAPS) < 4:
     OUT.add(gates[best[2]][4])
     gates = swapGates(gates, best[1], best[2])
 pr(','.join(sorted(OUT)))
+
+#Link to the problem: https://adventofcode.com/2024/day/24
