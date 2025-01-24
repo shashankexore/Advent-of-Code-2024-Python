@@ -58,3 +58,5 @@ for line in D.split('\n'):
             SCORE[k] += v
 print(p1)
 print(max(SCORE.values()))
+
+#Link to the problem: https://adventofcode.com/2024/day/22
