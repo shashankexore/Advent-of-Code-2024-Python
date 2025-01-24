@@ -53,3 +53,5 @@ for key in keys:
         if fits(key, lock):
             ans += 1
 pr(ans)
+
+#Link to the problem: https://adventofcode.com/2024/day/25
