@@ -1,9 +1,10 @@
-# Advent-of-code-2024-Python-
+# Advent-of-code-2024-Python
 These are all the codes of Advent of Code 2024 in Python. 
 I have attached my rank in class so that y'all can trust me.
 
+---
 
-IMPORTANT STEPS BEFORE YOU START!
+# IMPORTANT STEPS BEFORE YOU START!
 
 
 STEP 1: Create a new folder. (Here you will be storing all your AoC codes)
@@ -21,3 +22,8 @@ STEP 6: Run the code.
 STEP 7: Copy the first output for part 1 and the second output for part 2.
 
 STEP 8: Now enjoy your golden stars.
+
+---
+
+#Credits
+Made by Shashank Singh.
